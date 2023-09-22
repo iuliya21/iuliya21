@@ -13,7 +13,7 @@
   <p align="left">Я начинающий front-end разработчик. Мой путь в it начался с интенсива по front-end разработке на курсе The Rolling Scopes School. На данный момент я заказчиваю обучение в Яндекс.Практикуме по программе fullstack-разработчик и нахожусь в активном поиске работы.</p>
 </div>
 
-[![Telegram Badge](https://img.shields.io/badge/-iuliya_21-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/iuliya_21)
+[![Telegram Badge](https://img.shields.io/badge/-iuliya_21-272a36?style=flat&logo=Telegram&logoColor=white)](https://t.me/iuliya_21)
 
 <div align="center">
   <h3>Мой вклад :snake:</h3>
@@ -52,10 +52,10 @@
   <table>
     <tr>
       <td>
-        <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=iuliya21&theme=dark&background=000000" alt="webDev's Github stats" />
+        <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=iuliya21&theme=dark&background=272a36" alt="webDev's Github stats" />
       </td>
       <td>
-        <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iuliya21&layout=compact&theme=vision-friendly-dark" />
+        <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iuliya21&layout=compact&theme=dracula" />
       </td>
     </tr>
   </table>
