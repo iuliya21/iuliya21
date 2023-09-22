@@ -5,17 +5,21 @@
 </h1>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300"/>
+</div>
+
+<div align="center">
   <h3>Обо мне :speech_balloon:</h3>
-  <p>Я начинающий front-end разработчик. Мой путь в it начался с интенсива по front-end разработке на курсе The Rolling Scopes School. На данный момент я заказчиваю обучение в Яндекс.Практикуме по программе fullstack-разработчик и нахожусь в активном поиске работы.</p>
+  <p align="left">Я начинающий front-end разработчик. Мой путь в it начался с интенсива по front-end разработке на курсе The Rolling Scopes School. На данный момент я заказчиваю обучение в Яндекс.Практикуме по программе fullstack-разработчик и нахожусь в активном поиске работы.</p>
 </div>
 
 [![Telegram Badge](https://img.shields.io/badge/-iuliya_21-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/iuliya_21)
 
+<div align="center">
+  <h3>Социальные сети 🤝</h3>
+</div>
 
-### 🤝 Социальные сети:
-
-</a>
-  <a href="https://t.me/iuliya_21" target="_blank">
+<a href="https://t.me/iuliya_21" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
 </a>
 
@@ -23,7 +27,6 @@
   <h3>:snake: Мой вклад :snake:</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iuliya21/iuliya21/output/github-contribution-grid-snake.svg" />
 </div>
-
 
 ### 💻 Технологии, которые я использую:
 <div>
