@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iuliya21.iuliya21" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iuliya21.iuliya21"/>
 
 # Привет, меня зовут Иулия! 👋
 
