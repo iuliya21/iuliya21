@@ -1,15 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iuliya21.iuliya21"/>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=919DFF&center=true&width=500&lines=+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%F0%9F%91%8B;%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%98%D1%83%D0%BB%D0%B8%D1%8F!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=919DFF&center=true&vCenter=true&width=500&lines=+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%F0%9F%91%8B;%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%98%D1%83%D0%BB%D0%B8%D1%8F!" alt="Typing SVG" /></a>
 </h1>
 
-### 👩‍💻 Обо мне: 
-Я начинающий front-end разработчик. Мой путь в it начался с интенсива по front-end разработке на курсе The Rolling Scopes School. На данный момент я заказчиваю обучение в Яндекс.Практикуме по программе fullstack-разработчик и нахожусь в активном поиске работы.
+<div align="center">
+  <h3>Обо мне :speech_balloon:</h3>
+  <p>Я начинающий front-end разработчик. Мой путь в it начался с интенсива по front-end разработке на курсе The Rolling Scopes School. На данный момент я заказчиваю обучение в Яндекс.Практикуме по программе fullstack-разработчик и нахожусь в активном поиске работы.</p>
+</div>
 
 [![Telegram Badge](https://img.shields.io/badge/-iuliya_21-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/iuliya_21)
 
----
 
 ### 🤝 Социальные сети:
 
@@ -18,7 +19,11 @@
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
 </a>
 
----
+<div align="center">
+  <h3>:snake: Мой вклад :snake:</h3>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iuliya21/iuliya21/output/github-contribution-grid-snake.svg" />
+</div>
+
 
 ### 💻 Технологии, которые я использую:
 <div>
@@ -38,6 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="45" height="45"/>&nbsp;
 </div>
 
+
 ### 💻 Инструменты:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="45" height="45" fill="red"/>&nbsp
@@ -46,7 +52,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="45" height="45"/>&nbsp
 </div>
 
----
 
 ### 🎢 GitHub статистика:
 <table>
