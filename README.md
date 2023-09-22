@@ -32,3 +32,17 @@ icons/typescript/typescript-original.svg
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="45" height="45"/>&nbsp;
 </div>
+
+---
+
+### ⚙️ GitHub статистика:
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=iuliya21&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iuliya21&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
