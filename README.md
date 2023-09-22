@@ -1,3 +1,3 @@
 # Привет, меня зовут Иулия!
 
-### :man_technologist: Обо мне:
+### :thought_balloon: Обо мне:
