@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif-coder" />
 </div>
 
 <div align="center">
@@ -16,20 +16,13 @@
 [![Telegram Badge](https://img.shields.io/badge/-iuliya_21-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/iuliya_21)
 
 <div align="center">
-  <h3>Социальные сети 🤝</h3>
-</div>
-
-<a href="https://t.me/iuliya_21" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-</a>
-
-<div align="center">
-  <h3>:snake: Мой вклад :snake:</h3>
+  <h3>Мой вклад :snake:</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iuliya21/iuliya21/output/github-contribution-grid-snake.svg" />
 </div>
 
-### 💻 Технологии, которые я использую:
-<div>
+
+<div align="center">
+  <h3>Технологии, которые я использую :computer:</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="45" height="45"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="45" height="45"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="45" height="45"/>&nbsp
@@ -46,24 +39,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="45" height="45"/>&nbsp;
 </div>
 
-
-### 💻 Инструменты:
-<div>
+<div align="center">
+  <h3>Инструменты :key:</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="45" height="45" fill="red"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="45" height="45"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="45" height="45"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="45" height="45"/>&nbsp
 </div>
 
-
-### 🎢 GitHub статистика:
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=iuliya21&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iuliya21&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>GitHub статистика :chart_with_upwards_trend:</h3>
+  <table>
+    <tr>
+      <td>
+        <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=iuliya21&theme=dark&background=000000" alt="webDev's Github stats" />
+      </td>
+      <td>
+        <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iuliya21&layout=compact&theme=vision-friendly-dark" />
+      </td>
+    </tr>
+  </table>
+</div>
