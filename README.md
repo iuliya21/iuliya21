@@ -1,8 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iuliya21.iuliya21"/>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A5C1FF&center=true&width=500&lines=+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%98%D1%83%D0%BB%D0%B8%D1%8F!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=919DFF&center=true&width=500&lines=+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%F0%9F%91%8B;%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%98%D1%83%D0%BB%D0%B8%D1%8F!" alt="Typing SVG" /></a>
 </h1>
+
+<h2 align="center">
+  Обо мне 👩‍💻
+</h2>
+<p align="center">Я начинающий front-end разработчик. Мой путь в it начался с интенсива по front-end разработке на курсе The Rolling Scopes School. На данный момент я заказчиваю обучение в Яндекс.Практикуме по программе fullstack-разработчик и нахожусь в активном поиске работы.</p>
 
 ### 👩‍💻 Обо мне: 
 Я начинающий front-end разработчик. Мой путь в it начался с интенсива по front-end разработке на курсе The Rolling Scopes School. На данный момент я заказчиваю обучение в Яндекс.Практикуме по программе fullstack-разработчик и нахожусь в активном поиске работы.
