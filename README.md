@@ -10,7 +10,7 @@
 
 <div align="center">
   <h3>Обо мне :speech_balloon:</h3>
-  <p align="left">Я начинающий front-end разработчик. Мой путь в it начался с интенсива по front-end разработке на курсе The Rolling Scopes School. На данный момент я заказчиваю обучение в Яндекс.Практикуме по программе fullstack-разработчик и нахожусь в активном поиске работы.</p>
+  <p align="left">Я начинающий front-end разработчик. Мой путь в it начался с интенсива по front-end разработке на курсе The Rolling Scopes School. На данный момент я заканчиваю обучение в Яндекс.Практикуме по программе fullstack-разработчик и нахожусь в активном поиске работы.</p>
 </div>
 
 [![Telegram Badge](https://img.shields.io/badge/-iuliya_21-272a36?style=flat&logo=Telegram&logoColor=white)](https://t.me/iuliya_21)
