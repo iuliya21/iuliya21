@@ -15,6 +15,12 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-iuliya_21-272a36?style=flat&logo=Telegram&logoColor=white)](https://t.me/iuliya_21)
 
+<h3>Мои проекты 💼</h3>
+  
+- 📁 [Проект Creative-laboratory (Интернет-магазин игрушек)](https://github.com/iuliya21/creative-laboratory)
+- 📁 [Проект Stellar burger (Приложение для заказа бургеров)](https://github.com/iuliya21/react-burger)
+- 📁 [Приложение для размещения фотокарточек](https://github.com/iuliya21/mesto-project)
+
 <div align="center">
   <h3>Мой вклад :snake:</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iuliya21/iuliya21/output/github-contribution-grid-snake.svg" />
