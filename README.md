@@ -21,9 +21,12 @@
 - 📁 [Проект Creative-laboratory (Интернет-магазин игрушек)](https://github.com/iuliya21/creative-laboratory)
 - 📁 [Проект Stellar burger (Приложение для заказа бургеров)](https://github.com/iuliya21/react-burger)
 - 📁 [Приложение для размещения фотокарточек](https://github.com/iuliya21/mesto-project)
+- 📁 [Приложение для размещения фотокарточек Backend](https://github.com/iuliya21/mesto-project-plus)
+- 📁 [Приложение, визуализирующее работу популярных алгоритмов](https://github.com/iuliya21/fibonacci-school)
+- 📁 [Лендинг Путешествия по России](https://github.com/iuliya21/russian-travel)
 
 <div align="center">
-  <h3>Мой вклад :snake:</h3>
+  <h3>Активность :snake:</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iuliya21/iuliya21/output/github-contribution-grid-snake.svg" />
 </div>
 
