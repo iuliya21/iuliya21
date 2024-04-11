@@ -14,7 +14,11 @@
   Помимо обучения, последний год принимала участие в проекте по созданию интернет-библиотеки для онлайн-игры, а также брала заказы на фрилансе.</p>
 </div>
 
-[![Telegram Badge](https://img.shields.io/badge/-iuliya_21-272a36?style=flat&logo=Telegram&logoColor=white)](https://t.me/iuliya_21)
+Связаться со мной:
+
+Telegram: [![Telegram Badge](https://img.shields.io/badge/-iuliya_21-272a36?style=flat&logo=Telegram&logoColor=white)](https://t.me/iuliya_21)
+
+Электронная почта: iuliya.chadlin@yandex.ru
 
 <h3>Мои проекты 💼</h3>
   
