@@ -14,14 +14,13 @@
   Помимо обучения, последний год принимала участие в проекте по созданию интернет-библиотеки для онлайн-игры, а также брала заказы на фрилансе.</p>
 </div>
 
-Связаться со мной:
+<h3>Связаться со мной</h3>
 
-Telegram: [![Telegram Badge](https://img.shields.io/badge/-iuliya_21-272a36?style=flat&logo=Telegram&logoColor=white)](https://t.me/iuliya_21)
-
-Электронная почта: iuliya.chadlin@yandex.ru
+[![Telegram Badge](https://img.shields.io/badge/-iuliya_21-272a36?style=flat&logo=Telegram&logoColor=white)](https://t.me/iuliya_21)
 
 <h3>Мои проекты 💼</h3>
-  
+
+- 📁 [Проект Сервис обращения пользователей](https://github.com/iuliya21/test_gazeconomica) 
 - 📁 [Проект Creative-laboratory (Интернет-магазин игрушек)](https://github.com/iuliya21/creative-laboratory)
 - 📁 [Проект Stellar burger (Приложение для заказа бургеров)](https://github.com/iuliya21/react-burger)
 - 📁 [Приложение для размещения фотокарточек](https://github.com/iuliya21/mesto-project)
@@ -51,6 +50,10 @@ Telegram: [![Telegram Badge](https://img.shields.io/badge/-iuliya_21-272a36?styl
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="nestJS" alt="nestJS" width="45" height="45"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="axios" alt="axios" width="45" height="45"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="swagger" alt="swagger" width="45" height="45"/>&nbsp
+  
 </div>
 
 <div align="center">
