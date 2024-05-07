@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif-coder" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9icG9rcDFuaDFrZWJvMHcyaG9ueWRmZnZyMXI2YTcwZHA4cnB6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="gif-coder" />
 </div>
 
 <div align="center">
