@@ -21,13 +21,13 @@
 
 <h3>Мои проекты 💼</h3>
 
-- 📁 [Проект Сервис обращения пользователей (frontend + backend)](https://github.com/iuliya21/test_gazeconomica) 
+- 📁 [Проект Сервис обращения пользователей (frontend + backend)](https://github.com/iuliya21/test_gazeconomica)
+- 📁 [Веб-приложение для просмотра информации о фильмах КиноДом](https://github.com/iuliya21/esoft-kinopoisk/tree/feature/5)
 - 📁 [Проект Creative-laboratory (Интернет-магазин игрушек)](https://github.com/iuliya21/creative-laboratory)
 - 📁 [Проект Stellar burger (Приложение для заказа бургеров)](https://github.com/iuliya21/react-burger)
 - 📁 [Приложение для размещения фотокарточек](https://github.com/iuliya21/mesto-project)
 - 📁 [Приложение для размещения фотокарточек Backend](https://github.com/iuliya21/mesto-project-plus)
 - 📁 [Приложение, визуализирующее работу популярных алгоритмов](https://github.com/iuliya21/fibonacci-school)
-- 📁 [Лендинг Путешествия по России](https://github.com/iuliya21/russian-travel)
 
 <div align="center">
   <h3>Активность :snake:</h3>
