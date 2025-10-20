@@ -1,18 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iuliya21.iuliya21"/>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=919DFF&center=true&vCenter=true&width=500&lines=+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%F0%9F%91%8B;%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%98%D1%83%D0%BB%D0%B8%D1%8F!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&pause=800&color=755D9A&center=true&vCenter=true&width=500&lines=Привет+👋;Добро+пожаловать+в+мой+профиль!+🚀" 
+      alt="Typing SVG" 
+    />
+  </a>
 </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9icG9rcDFuaDFrZWJvMHcyaG9ueWRmZnZyMXI2YTcwZHA4cnB6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="gif-coder" />
-</div>
-
-<div align="center">
-  <h3>Обо мне :speech_balloon:</h3>
-  <p align="left">Мой путь в it начался с интенсива по frontend-разработке на курсе The Rolling Scopes School, а после продолжился на курсах от ЯндексПрактикума по программе fullstack-разработчика. Последний год принимала участие в нескольких проектах и брала заказы на фрилансе.
-Frontend нравится тем, что можно проявить как аналитические способности, так и творческие.
-  </p>
 </div>
 
 <h3>Связаться со мной</h3>
